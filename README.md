@@ -1,15 +1,22 @@
 # Textão AI — Android
 
-Aplicativo beta da AcademyX que prepara conversas do WhatsApp para uso na IA de sua preferência: transforma áudio em texto e reúne mensagens e mídias originais.
+Instaladores do Textão AI, produto da AcademyX que transforma áudios do WhatsApp em texto e prepara a conversa, com suas mídias, para usar na IA de sua preferência.
 
-**[Baixar APK 0.8.3](https://github.com/AcademyXTech/textao-ai-downloads/releases/download/v0.8.3/TextaoAI-0.8.3.apk)**
+## Versão atual: 0.10.0-beta
 
-[Notas da versão e arquivo de verificação](https://github.com/AcademyXTech/textao-ai-downloads/releases/tag/v0.8.3).
+[**Baixar o APK para Android**](https://github.com/AcademyXTech/textao-ai-downloads/releases/download/v0.10.0/TextaoAI-0.10.0.apk)
 
-## Sobre o teste
+- Escolha quais áudios transcrever ou selecione os que cabem nos minutos disponíveis.
+- Consulte minutos, conversas e validade na aba Conta.
+- Depois de confirmar, pode trocar de aplicativo ou bloquear a tela; acompanhe pela notificação ou no app.
 
-O download é público. Para transcrever, é necessário entrar com Google e ter acesso e saldo no piloto. O teste está limitado a 10 contas, por 14 dias a partir da ativação, até 3 conversas com transcrição e 30 minutos de áudio por conta. Cada áudio pode ter até 5 minutos. Importação e exportação também permitem preservar os áudios originais sem transcrevê-los.
+O acesso Google é solicitado para transcrever. Importar e exportar continuam sem login. Aplicam-se os limites do teste.
 
-Produto beta, ainda sem publicação na loja. Atualize sobre a instalação anterior para preservar os dados locais. Para recuperar mensagens deixadas de fora de um recorte antigo, importe novamente o arquivo original escolhendo Conversa inteira.
+Instale como atualização da versão anterior, sem desinstalar. Se o Android solicitar, autorize a instalação a partir da fonte usada para baixar o arquivo. Compatível com Android 10 ou superior.
 
-Suporte: textao.ai@academyx.com.br.
+SHA-256 do APK: `ed76326f8a68ffd0dd7062eb5925a8197e54200a7c7dc84c8891d366145690cb`.
+
+[Notas e arquivos desta versão](https://github.com/AcademyXTech/textao-ai-downloads/releases/tag/v0.10.0) · [Versões anteriores](https://github.com/AcademyXTech/textao-ai-downloads/releases)
+
+Produto beta em caráter de teste, ainda não publicado nas lojas.
+Suporte: textao.ai@academyx.com.br
